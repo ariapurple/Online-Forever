@@ -29,4 +29,4 @@ async def on_ready():
     # os.system('clear')
     print(f'Logged in as {client.user} (ID: {client.user.id})')
 keep_alive()
-client.run("MjQwODg3NDEyNzY5Njg1NTA0.Go73pV.QQY_0-PIke--1WyKFJ7Yraey21BgzXlEfgOG_Q")
+client.run("Your main TOKEN")
